@@ -1,0 +1,9 @@
+[submodule "depth_anything_v2"]
+	path = depth_anything_v2
+	url = iiit-github:cookiepresence/depth-anything-v2
+[submodule "video_depth_anything"]
+	path = video_depth_anything
+	url = iiit-github:cookiepresence/video-depth-anything
+[submodule "muggled_dpt"]
+	path = muggled_dpt
+	url = iiit-github:cookiepresence/muggled_dpt
